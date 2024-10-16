@@ -1,7 +1,3 @@
-# pythonOOP
-
-```python
-
 import module_a, module_base, module_b
 
 def main():
@@ -17,4 +13,3 @@ def main():
     
 if __name__ == "__main__":
     main()
-```
